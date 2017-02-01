@@ -1,0 +1,28 @@
+Bill of Material for 
+On 1/5/2017 at 10:47:38 AM
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+                     POWER2           1    OUT Cosse+                   connecteur alim 2 pôles 
+ comment             LED1206         44    LD1, LD2, LD3, LD4, LD5, LD6 LED 5mm/3mm/CMS      
+                                           LD7, LD8, LD9, LD10, LD11
+                                           LD12, LD13, LD14, LD15, LD16
+                                           LD17, LD18, LD19, LD20, LD21
+                                           LD22, LD23, LD24, LD25, LD26
+                                           LD27, LD28, LD29, LD30, LD31
+                                           LD32, LD33, LD34, LD35, LD36
+                                           LD37, LD38, LD39, LD40, LD41
+                                           LD42, LDlogdroit, LDloggauche
+ comment             POWER2           3    IN Cosse+, IN Cosse-         connecteur alim 2 pôles 
+                                           OUT Cosse-
+ JUMPER2             JMP2-100         2    CoLogique, JmpOneMatrix      cavalier 1 position  
+ RES                 0805            48    R1, R2, R3, R4, R5, R6, R7   resistance           
+                                           R8, R9, R10, R11, R12, R13
+                                           R14, R15, R16, R17, R18, R19
+                                           R20, R21, R22, R23, R24, R25
+                                           R26, R27, R28, R29, R30, R31
+                                           R32, R33, R34, R35, R36, R37
+                                           R38, R39, R40, R41, R42
+                                           Rlogdroit, Rloggauche, Rm1
+                                           Rm2, Rmofset1, Rmofset2
+ STP55NF06L          STP55NF06L       2    STP55NF06L, STP55NF06L 2                          
