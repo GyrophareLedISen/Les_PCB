@@ -1,0 +1,44 @@
+Added Component: Designator=CosseAlumeCigare+(POWER2)
+Added Component: Designator=CosseAlumeCigare-(POWER2)
+Added Component: Designator=CosseHP+(POWER2)
+Added Component: Designator=CosseHP-(POWER2)
+Added Component: Designator=CossePLed+(POWER2)
+Added Component: Designator=CossePLed-(POWER2)
+Added Component: Designator=JMPBluetooth(JMP2-100)
+Added Component: Designator=RhBluet(0805)
+Added Component: Designator=RlBluet(0805)
+Added Component: Designator=RpullUpBluet(0805)
+Added Component: Designator=ShutFuse(JMP2-100)
+Added Pin To Net: NetName=ALUMECIGARE+ Pin=CosseAlumeCigare+-1
+Added Pin To Net: NetName=ALUMECIGARE+ Pin=CosseAlumeCigare+-2
+Added Pin To Net: NetName=GND Pin=CosseAlumeCigare--1
+Added Pin To Net: NetName=GND Pin=CosseAlumeCigare--2
+Added Pin To Net: NetName=ALIMHP Pin=CosseHP+-1
+Added Pin To Net: NetName=ALIMHP Pin=CosseHP+-2
+Added Pin To Net: NetName=GND Pin=CosseHP--1
+Added Pin To Net: NetName=GND Pin=CosseHP--2
+Added Pin To Net: NetName=ALIMPUISSANCELED Pin=CossePLed+-1
+Added Pin To Net: NetName=ALIMPUISSANCELED Pin=CossePLed+-2
+Added Pin To Net: NetName=GND Pin=CossePLed--1
+Added Pin To Net: NetName=GND Pin=CossePLed--2
+Added Pin To Net: NetName=VCC Pin=JMPBluetooth-1
+Added Pin To Net: NetName=EN Pin=JMPBluetooth-2
+Added Pin To Net: NetName=RXB_ARDUINO Pin=RhBluet-1
+Added Pin To Net: NetName=RXB_ARDUINO Pin=RhBluet-2
+Added Pin To Net: NetName=GND Pin=RlBluet-1
+Added Pin To Net: NetName=RXB_ARDUINO Pin=RlBluet-2
+Added Pin To Net: NetName=TXB Pin=RpullUpBluet-1
+Added Pin To Net: NetName=5V Pin=RpullUpBluet-2
+Added Pin To Net: NetName=ALUMCIGPROTECT Pin=ShutFuse-1
+Added Pin To Net: NetName=ALUMECIGARE+ Pin=ShutFuse-2
+Added Member To Class: ClassName=Gyrophare-CarteDeCommande Member=Component CosseAlumeCigare+
+Added Member To Class: ClassName=Gyrophare-CarteDeCommande Member=Component CosseAlumeCigare- CosseAlumeCigare+
+Added Member To Class: ClassName=Gyrophare-CarteDeCommande Member=Component CosseHP+ comment
+Added Member To Class: ClassName=Gyrophare-CarteDeCommande Member=Component CosseHP- comment
+Added Member To Class: ClassName=Gyrophare-CarteDeCommande Member=Component CossePLed+ comment
+Added Member To Class: ClassName=Gyrophare-CarteDeCommande Member=Component CossePLed- comment
+Added Member To Class: ClassName=Gyrophare-CarteDeCommande Member=Component JMPBluetooth JMP2
+Added Member To Class: ClassName=Gyrophare-CarteDeCommande Member=Component RhBluet RES
+Added Member To Class: ClassName=Gyrophare-CarteDeCommande Member=Component RlBluet RES
+Added Member To Class: ClassName=Gyrophare-CarteDeCommande Member=Component RpullUpBluet RES
+Added Member To Class: ClassName=Gyrophare-CarteDeCommande Member=Component ShutFuse JUMPER2

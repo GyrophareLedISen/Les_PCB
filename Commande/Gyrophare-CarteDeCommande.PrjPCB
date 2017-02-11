@@ -100,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document5]
-DocumentPath=Gyrophare-CarteDeCommande.SchDoc
+DocumentPath=Gyrophare-CarteDeCommande.PCBDOC
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -116,7 +116,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document6]
-DocumentPath=Librairie\Arduino Nano Version 3.1.PcbLib
+DocumentPath=Gyrophare-CarteDeCommande.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132,7 +132,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document7]
-DocumentPath=Librairie\Arduino Nano version.SchLib
+DocumentPath=Librairie\Arduino Nano Version 3.1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -148,7 +148,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document8]
-DocumentPath=Librairie\fuse.PcbLib
+DocumentPath=Librairie\Arduino Nano version.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -164,7 +164,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document9]
-DocumentPath=Librairie\AdaptateurDIP.PcbLib
+DocumentPath=Librairie\fuse.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -180,7 +180,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document10]
-DocumentPath=Librairie\ModuleBluetooth.PcbLib
+DocumentPath=Librairie\AdaptateurDIP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -196,7 +196,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document11]
-DocumentPath=Librairie\ModuleBluetooth.SchLib
+DocumentPath=Librairie\ModuleBluetooth.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -212,7 +212,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document12]
-DocumentPath=Librairie\SwitchButton.PcbLib
+DocumentPath=Librairie\ModuleBluetooth.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -228,7 +228,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document13]
-DocumentPath=Librairie\SwitchButton.SchLib
+DocumentPath=Librairie\SwitchButton.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -244,7 +244,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document14]
-DocumentPath=Librairie\74HC595.SchLib
+DocumentPath=Librairie\SwitchButton.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -260,7 +260,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document15]
-DocumentPath=Librairie\74HC595.PcbLib
+DocumentPath=Librairie\74HC595.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -276,7 +276,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document16]
-DocumentPath=Co-DoubleDip.SchLib
+DocumentPath=Librairie\74HC595.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -292,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document17]
-DocumentPath=Librairie\Co-DoubleDip.PcbLib
+DocumentPath=Co-DoubleDip.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -308,7 +308,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document18]
-DocumentPath=Librairie\MiniTrimmer.PcbLib
+DocumentPath=Librairie\Co-DoubleDip.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -324,7 +324,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document19]
-DocumentPath=Librairie\MiniTrimmer.SchLib
+DocumentPath=Librairie\MiniTrimmer.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -340,6 +340,22 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document20]
+DocumentPath=Librairie\MiniTrimmer.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document21]
 DocumentPath=Gyrophare-CarteDeCommande.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1

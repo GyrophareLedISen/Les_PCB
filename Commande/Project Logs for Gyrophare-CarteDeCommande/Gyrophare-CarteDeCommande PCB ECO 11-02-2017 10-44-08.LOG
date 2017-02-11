@@ -1,0 +1,167 @@
+Added Component: Designator=ArduinoNanoV3(Arduino Nano FootPrint)
+Added Component: Designator=Button1(SwitchMedium)
+Added Component: Designator=Button2(SwitchMedium)
+Added Component: Designator=ConnecteurSon(JMP3-100)
+Added Component: Designator=DecMatLed(0805)
+Added Component: Designator=Fusete(FUSE)
+Added Component: Designator=JMP?(JMP2-100)
+Added Component: Designator=LED1(LED0805)
+Added Component: Designator=LED2(LED0805)
+Added Component: Designator=LEDDroite(DIP6)
+Added Component: Designator=LEDGauche(DIP6)
+Added Component: Designator=ModuleBlueTooth(HC-05 Couché)
+Added Component: Designator=Pin20(TESTPOINT)
+Added Component: Designator=Pin21(TESTPOINT)
+Added Component: Designator=RB1(0201)
+Added Component: Designator=RB2(0201)
+Added Component: Designator=RdoSon(0805)
+Added Component: Designator=RegCommande(Module LM2596 DC-DC)
+Added Component: Designator=RegistreDecalage1(74HC595)
+Added Component: Designator=RegPuiss(Module LM2596 DC-DC)
+Added Component: Designator=RLED1(0805)
+Added Component: Designator=RLED2(0805)
+Added Component: Designator=RupSon(0805)
+Added Component: Designator=RX(TESTPOINT)
+Added Component: Designator=TX(TESTPOINT)
+Added Pin To Net: NetName=5V Pin=ArduinoNanoV3-27
+Added Pin To Net: NetName=5V Pin=DecMatLed-1
+Added Pin To Net: NetName=5V Pin=ModuleBlueTooth-5
+Added Pin To Net: NetName=5V Pin=RB1-2
+Added Pin To Net: NetName=5V Pin=RB2-2
+Added Pin To Net: NetName=5V Pin=RegistreDecalage1-10
+Added Pin To Net: NetName=5V Pin=RegistreDecalage1-16
+Added Net: Name=5V
+Added Pin To Net: NetName=ALIMARDUINO Pin=ArduinoNanoV3-30
+Added Pin To Net: NetName=ALIMARDUINO Pin=RegCommande-4
+Added Net: Name=ALIMARDUINO
+Added Pin To Net: NetName=ALIMHP Pin=ConnecteurSon-3
+Added Pin To Net: NetName=ALIMHP Pin=JMP?-1
+Added Net: Name=ALIMHP
+Added Pin To Net: NetName=ALIMPUISSANCELED Pin=RegPuiss-4
+Added Net: Name=ALIMPUISSANCELED
+Added Pin To Net: NetName=ALUMCIGPROTECT Pin=Fusete-0
+Added Pin To Net: NetName=ALUMCIGPROTECT Pin=JMP?-2
+Added Pin To Net: NetName=ALUMCIGPROTECT Pin=RegCommande-1
+Added Pin To Net: NetName=ALUMCIGPROTECT Pin=RegPuiss-1
+Added Net: Name=ALUMCIGPROTECT
+Added Pin To Net: NetName=ALUMECIGARE+ Pin=Fusete-1
+Added Net: Name=ALUMECIGARE+
+Added Pin To Net: NetName=BUTTON1 Pin=ArduinoNanoV3-25
+Added Pin To Net: NetName=BUTTON1 Pin=Button1-1
+Added Pin To Net: NetName=BUTTON1 Pin=Button1-2
+Added Pin To Net: NetName=BUTTON1 Pin=Pin20-1
+Added Pin To Net: NetName=BUTTON1 Pin=RB1-1
+Added Net: Name=BUTTON1
+Added Pin To Net: NetName=BUTTON2 Pin=ArduinoNanoV3-26
+Added Pin To Net: NetName=BUTTON2 Pin=Button2-1
+Added Pin To Net: NetName=BUTTON2 Pin=Button2-2
+Added Pin To Net: NetName=BUTTON2 Pin=Pin21-1
+Added Pin To Net: NetName=BUTTON2 Pin=RB2-1
+Added Net: Name=BUTTON2
+Added Pin To Net: NetName=COMMANDEHP Pin=ConnecteurSon-1
+Added Pin To Net: NetName=COMMANDEHP Pin=RdoSon-2
+Added Pin To Net: NetName=COMMANDEHP Pin=RupSon-1
+Added Net: Name=COMMANDEHP
+Added Pin To Net: NetName=EN Pin=ModuleBlueTooth-6
+Added Net: Name=EN
+Added Pin To Net: NetName=GND Pin=ArduinoNanoV3-4
+Added Pin To Net: NetName=GND Pin=ArduinoNanoV3-29
+Added Pin To Net: NetName=GND Pin=Button1-3
+Added Pin To Net: NetName=GND Pin=Button1-4
+Added Pin To Net: NetName=GND Pin=Button2-3
+Added Pin To Net: NetName=GND Pin=Button2-4
+Added Pin To Net: NetName=GND Pin=ConnecteurSon-2
+Added Pin To Net: NetName=GND Pin=DecMatLed-2
+Added Pin To Net: NetName=GND Pin=ModuleBlueTooth-4
+Added Pin To Net: NetName=GND Pin=RdoSon-1
+Added Pin To Net: NetName=GND Pin=RegCommande-2
+Added Pin To Net: NetName=GND Pin=RegCommande-3
+Added Pin To Net: NetName=GND Pin=RegistreDecalage1-8
+Added Pin To Net: NetName=GND Pin=RegistreDecalage1-13
+Added Pin To Net: NetName=GND Pin=RegPuiss-2
+Added Pin To Net: NetName=GND Pin=RegPuiss-3
+Added Pin To Net: NetName=GND Pin=RLED1-1
+Added Pin To Net: NetName=GND Pin=RLED2-1
+Added Net: Name=GND
+Added Pin To Net: NetName=LED1 Pin=ArduinoNanoV3-8
+Added Pin To Net: NetName=LED1 Pin=LED1-A
+Added Net: Name=LED1
+Added Pin To Net: NetName=LED2 Pin=ArduinoNanoV3-9
+Added Pin To Net: NetName=LED2 Pin=LED2-A
+Added Net: Name=LED2
+Added Pin To Net: NetName=MATLEDCLK Pin=ArduinoNanoV3-14
+Added Net: Name=MATLEDCLK
+Added Pin To Net: NetName=MATLEDCS Pin=ArduinoNanoV3-15
+Added Net: Name=MATLEDCS
+Added Pin To Net: NetName=MATLEDDIN Pin=ArduinoNanoV3-16
+Added Net: Name=MATLEDDIN
+Added Pin To Net: NetName=NetArduinoNanoV3_1 Pin=ArduinoNanoV3-1
+Added Pin To Net: NetName=NetArduinoNanoV3_1 Pin=TX-1
+Added Net: Name=NetArduinoNanoV3_1
+Added Pin To Net: NetName=NetArduinoNanoV3_2 Pin=ArduinoNanoV3-2
+Added Pin To Net: NetName=NetArduinoNanoV3_2 Pin=RX-1
+Added Net: Name=NetArduinoNanoV3_2
+Added Pin To Net: NetName=NetLED1_K Pin=LED1-K
+Added Pin To Net: NetName=NetLED1_K Pin=RLED1-2
+Added Net: Name=NetLED1_K
+Added Pin To Net: NetName=P1L Pin=LEDGauche-2
+Added Pin To Net: NetName=P1L Pin=RegistreDecalage1-1
+Added Net: Name=P1L
+Added Pin To Net: NetName=P1R Pin=LEDGauche-1
+Added Pin To Net: NetName=P1R Pin=RegistreDecalage1-15
+Added Net: Name=P1R
+Added Pin To Net: NetName=P2L Pin=LEDGauche-4
+Added Pin To Net: NetName=P2L Pin=RegistreDecalage1-3
+Added Net: Name=P2L
+Added Pin To Net: NetName=P2R Pin=LEDGauche-3
+Added Pin To Net: NetName=P2R Pin=RegistreDecalage1-2
+Added Net: Name=P2R
+Added Pin To Net: NetName=P3L Pin=LEDGauche-6
+Added Pin To Net: NetName=P3L Pin=RegistreDecalage1-5
+Added Net: Name=P3L
+Added Pin To Net: NetName=P3R Pin=LEDGauche-5
+Added Pin To Net: NetName=P3R Pin=RegistreDecalage1-4
+Added Net: Name=P3R
+Added Pin To Net: NetName=P4L Pin=LEDDroite-2
+Added Pin To Net: NetName=P4L Pin=RegistreDecalage1-7
+Added Net: Name=P4L
+Added Pin To Net: NetName=P4R Pin=LEDDroite-1
+Added Pin To Net: NetName=P4R Pin=RegistreDecalage1-6
+Added Net: Name=P4R
+Added Pin To Net: NetName=P5L Pin=ArduinoNanoV3-22
+Added Pin To Net: NetName=P5L Pin=LEDDroite-4
+Added Net: Name=P5L
+Added Pin To Net: NetName=P5R Pin=ArduinoNanoV3-21
+Added Pin To Net: NetName=P5R Pin=LEDDroite-3
+Added Net: Name=P5R
+Added Pin To Net: NetName=P6L Pin=ArduinoNanoV3-24
+Added Pin To Net: NetName=P6L Pin=LEDDroite-6
+Added Net: Name=P6L
+Added Pin To Net: NetName=P6R Pin=ArduinoNanoV3-23
+Added Pin To Net: NetName=P6R Pin=LEDDroite-5
+Added Net: Name=P6R
+Added Pin To Net: NetName=POTENTIOMETRE Pin=ArduinoNanoV3-19
+Added Net: Name=POTENTIOMETRE
+Added Pin To Net: NetName=REGDECA_RCLK Pin=ArduinoNanoV3-5
+Added Pin To Net: NetName=REGDECA_RCLK Pin=RegistreDecalage1-12
+Added Net: Name=REGDECA_RCLK
+Added Pin To Net: NetName=REGDECA_SER Pin=ArduinoNanoV3-7
+Added Pin To Net: NetName=REGDECA_SER Pin=RegistreDecalage1-14
+Added Net: Name=REGDECA_SER
+Added Pin To Net: NetName=REGDECA_SRCLK Pin=ArduinoNanoV3-6
+Added Pin To Net: NetName=REGDECA_SRCLK Pin=RegistreDecalage1-11
+Added Net: Name=REGDECA_SRCLK
+Added Pin To Net: NetName=RXB_ARDUINO Pin=ArduinoNanoV3-10
+Added Pin To Net: NetName=RXB_ARDUINO Pin=ModuleBlueTooth-2
+Added Net: Name=RXB_ARDUINO
+Added Pin To Net: NetName=SON Pin=ArduinoNanoV3-12
+Added Pin To Net: NetName=SON Pin=RupSon-2
+Added Net: Name=SON
+Added Pin To Net: NetName=STATE Pin=ModuleBlueTooth-1
+Added Net: Name=STATE
+Added Pin To Net: NetName=TXB Pin=ArduinoNanoV3-11
+Added Pin To Net: NetName=TXB Pin=ModuleBlueTooth-3
+Added Net: Name=TXB
+Added Net: Name=VCC
+Added Class: Name=Gyrophare-CarteDeCommande
+Added Room: Name=Gyrophare-CarteDeCommande

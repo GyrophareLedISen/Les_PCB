@@ -1,0 +1,7 @@
+Added Component: Designator=MatLed(ADAPTATEURDIP5)
+Added Pin To Net: NetName=5V Pin=MatLed-1
+Added Pin To Net: NetName=GND Pin=MatLed-2
+Added Pin To Net: NetName=MATLEDDIN Pin=MatLed-3
+Added Pin To Net: NetName=MATLEDCS Pin=MatLed-4
+Added Pin To Net: NetName=MATLEDCLK Pin=MatLed-5
+Added Member To Class: ClassName=Gyrophare-CarteDeCommande Member=Component MatLed CoMatLed

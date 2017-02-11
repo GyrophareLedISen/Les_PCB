@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetLED2_K Pin=LED2-K
+Added Pin To Net: NetName=NetLED2_K Pin=RLED2-2
+Added Net: Name=NetLED2_K
+Added Room: Name=Gyrophare-CarteDeCommande
