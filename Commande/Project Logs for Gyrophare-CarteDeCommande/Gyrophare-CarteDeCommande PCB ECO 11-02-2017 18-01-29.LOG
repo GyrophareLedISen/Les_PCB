@@ -1,0 +1,5 @@
+Added Component: Designator=Pin10(TESTPOINT)
+Added Pin To Net: NetName=NetArduinoNanoV3_13 Pin=ArduinoNanoV3-13
+Added Pin To Net: NetName=NetArduinoNanoV3_13 Pin=Pin10-1
+Added Net: Name=NetArduinoNanoV3_13
+Added Member To Class: ClassName=Gyrophare-CarteDeCommande Member=Component Pin10 PIN

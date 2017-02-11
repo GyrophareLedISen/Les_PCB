@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=P5R Pin=LEDDroite-3
+Removed Pin From Net: NetName=P6R Pin=LEDDroite-6
+Added Pin To Net: NetName=P6R Pin=LEDDroite-3
+Added Pin To Net: NetName=P5R Pin=LEDDroite-6

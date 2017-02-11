@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=RXB_ARDUINO Pin=ArduinoNanoV3-10
+Removed Pin From Net: NetName=RXB_ARDUINO Pin=RhBluet-2
+Change Net Name : Old Net Name=RXB_ARDUINO New Net Name=RXB
+Added Pin To Net: NetName=RXB_ARDUINO Pin=ArduinoNanoV3-10
+Added Pin To Net: NetName=RXB_ARDUINO Pin=RhBluet-2
+Added Net: Name=RXB_ARDUINO
