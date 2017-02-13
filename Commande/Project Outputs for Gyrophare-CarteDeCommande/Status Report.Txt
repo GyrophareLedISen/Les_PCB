@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Gyrophare-CarteDeCommande.PrjPCB]
+   Generated File[Gyrophare-CarteDeCommande.TXT]
+   Generated File[Gyrophare-CarteDeCommande.LDP]
+   Generated File[Gyrophare-CarteDeCommande.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:02:05 On 13/02/2017

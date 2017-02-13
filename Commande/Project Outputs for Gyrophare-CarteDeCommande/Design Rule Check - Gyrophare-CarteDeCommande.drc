@@ -1,51 +1,51 @@
 Protel Design System Design Rule Check
 PCB File : D:\Benoit Piriou\Mes documents\ISEN\2016-2017\Automobile\Gyrophare\GyrophareISEN\PCB\Les_PCB\Commande\Gyrophare-CarteDeCommande.PCBDOC
-Date     : 11/02/2017
-Time     : 18:54:43
+Date     : 13/02/2017
+Time     : 12:01:36
 
-Processing Rule : Clearance Constraint (Gap=0.254mm) (OnLayer('Multi-Layer')),(OnLayer('Multi-Layer'))
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=0.5mm) (Max=254mm) (Preferred=0.813mm) (OnLayer('Bottom Layer') or OnLayer('Top Layer'))
-Rule Violations :0
-
-Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
-Rule Violations :0
-
-Processing Rule : Clearance Constraint (Gap=0.203mm) (OnLayer('Bottom Layer') Or OnLayer('Multi-Layer')),(OnLayer('Bottom Layer')  And Not InPoly)
-   Violation between Text "Vout" (80.393mm,-0.565mm)  Bottom Layer and 
-                     Pad RegPuiss-4(79.504mm,1.086mm)  Multi-Layer
-   Violation between Text "Vout" (57.763mm,-0.275mm)  Bottom Layer and 
-                     Pad RegCommande-4(56.874mm,1.376mm)  Multi-Layer
-Rule Violations :2
-
-Processing Rule : Clearance Constraint (Gap=0.203mm) (OnLayer('Top Layer')  Or OnLayer('Multi-Layer')),(OnLayer('Top Layer') And Not InPoly)
-Rule Violations :0
-
-Processing Rule : Minimum Annular Ring (Minimum=0.254mm) (PadXSize_AllLayers = PadYSize_AllLayers)
-Rule Violations :0
-
-Processing Rule : SMD To Plane Constraint (Distance=0mm) (All)
-Rule Violations :0
-
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
-Rule Violations :0
-
-Processing Rule : Hole Size Constraint (Min=0.406mm) (Max=25.4mm) (All)
-Rule Violations :0
-
-Processing Rule : Un-Routed Net Constraint ( (All) )
-Rule Violations :0
-
-Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Processing Rule : Clearance Constraint (Gap=0.508mm) (OnLayer('Top Layer')  Or OnLayer('Multi-Layer')),(OnLayer('Top Layer') And InPoly)
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=0.508mm) (OnLayer('Bottom Layer') Or OnLayer('Multi-Layer')),(OnLayer('Bottom Layer')  And  InPoly)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=0.508mm) (OnLayer('Top Layer')  Or OnLayer('Multi-Layer')),(OnLayer('Top Layer') And InPoly)
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.406mm) (Max=25.4mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : SMD To Plane Constraint (Distance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.254mm) (PadXSize_AllLayers = PadYSize_AllLayers)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.203mm) (OnLayer('Top Layer')  Or OnLayer('Multi-Layer')),(OnLayer('Top Layer') And Not InPoly)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.203mm) (OnLayer('Bottom Layer') Or OnLayer('Multi-Layer')),(OnLayer('Bottom Layer')  And Not InPoly)
+   Violation between Text "Vout" (57.763mm,-0.275mm)  Bottom Layer and 
+                     Pad RegCommande-4(56.874mm,1.376mm)  Multi-Layer
+   Violation between Text "Vout" (80.393mm,-0.565mm)  Bottom Layer and 
+                     Pad RegPuiss-4(79.504mm,1.086mm)  Multi-Layer
+Rule Violations :2
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.5mm) (Max=254mm) (Preferred=0.813mm) (OnLayer('Bottom Layer') or OnLayer('Top Layer'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (OnLayer('Multi-Layer')),(OnLayer('Multi-Layer'))
 Rule Violations :0
 
 
 Violations Detected : 2
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:00

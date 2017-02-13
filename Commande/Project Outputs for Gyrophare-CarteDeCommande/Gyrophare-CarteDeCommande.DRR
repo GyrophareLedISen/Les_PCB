@@ -1,0 +1,26 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Gyrophare-CarteDeCommande.PCBDOC   13/02/2017  12:02:05
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Gyrophare-CarteDeCommande.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        23.6mil (0.59944mm)      Round          3                0.31 Inch (7.89 mm)
+T2        28mil (0.7112mm)         Round          58               28.80 Inch (731.43 mm)
+T3        30mil (0.762mm)          Round          9                3.94 Inch (100.01 mm)
+T4        39.4mil (1.00076mm)      Round          4                1.57 Inch (39.91 mm)
+T5        39.8mil (1.01092mm)      Round          12               3.25 Inch (82.55 mm)
+T6        40mil (1.016mm)          Round          13               13.68 Inch (347.53 mm)
+T7        40.9mil (1.03886mm)      Round          30               3.90 Inch (99.06 mm)
+T8        41.3mil (1.04902mm)      Round          6                0.50 Inch (12.70 mm)
+T9        44mil (1.1176mm)         Round          5                2.30 Inch (58.44 mm)
+T10       47.2mil (1.19888mm)      Round          4                1.58 Inch (40.17 mm)
+T11       52mil (1.3208mm)         Round          12               4.33 Inch (110.09 mm)
+T12       78.7mil (1.99898mm)      Round          2                0.87 Inch (22.10 mm)
+T13       157.5mil (4.0005mm)      Round          6                15.15 Inch (384.85 mm)
+---------------------------------------------------------------------------
+Totals                                            164              80.19 Inch (2036.73 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
